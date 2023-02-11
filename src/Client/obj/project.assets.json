@@ -1793,11 +1793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dagoberto\\source\\repos\\src\\Client\\src.Client.csproj",
+      "projectUniqueName": "C:\\Users\\Dagoberto\\Downloads\\MarlonDesplieguePrueba\\src\\Client\\src.Client.csproj",
       "projectName": "src.Client",
-      "projectPath": "C:\\Users\\Dagoberto\\source\\repos\\src\\Client\\src.Client.csproj",
+      "projectPath": "C:\\Users\\Dagoberto\\Downloads\\MarlonDesplieguePrueba\\src\\Client\\src.Client.csproj",
       "packagesPath": "C:\\Users\\Dagoberto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dagoberto\\source\\repos\\src\\Client\\obj\\",
+      "outputPath": "C:\\Users\\Dagoberto\\Downloads\\MarlonDesplieguePrueba\\src\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dagoberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1814,8 +1814,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Dagoberto\\source\\repos\\src\\Shared\\src.Shared.csproj": {
-              "projectPath": "C:\\Users\\Dagoberto\\source\\repos\\src\\Shared\\src.Shared.csproj"
+            "C:\\Users\\Dagoberto\\Downloads\\MarlonDesplieguePrueba\\src\\Shared\\src.Shared.csproj": {
+              "projectPath": "C:\\Users\\Dagoberto\\Downloads\\MarlonDesplieguePrueba\\src\\Shared\\src.Shared.csproj"
             }
           }
         }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dagoberto\\source\\repos\\src\\Shared\\src.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Dagoberto\\Downloads\\MarlonDesplieguePrueba\\src\\Shared\\src.Shared.csproj",
       "projectName": "src.Shared",
-      "projectPath": "C:\\Users\\Dagoberto\\source\\repos\\src\\Shared\\src.Shared.csproj",
+      "projectPath": "C:\\Users\\Dagoberto\\Downloads\\MarlonDesplieguePrueba\\src\\Shared\\src.Shared.csproj",
       "packagesPath": "C:\\Users\\Dagoberto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dagoberto\\source\\repos\\src\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\Dagoberto\\Downloads\\MarlonDesplieguePrueba\\src\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dagoberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
