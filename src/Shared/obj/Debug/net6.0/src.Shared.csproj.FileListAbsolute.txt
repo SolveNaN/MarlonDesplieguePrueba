@@ -1,0 +1,12 @@
+C:\Users\Dagoberto\source\repos\src\Shared\bin\Debug\net6.0\src.Shared.deps.json
+C:\Users\Dagoberto\source\repos\src\Shared\bin\Debug\net6.0\src.Shared.dll
+C:\Users\Dagoberto\source\repos\src\Shared\bin\Debug\net6.0\src.Shared.pdb
+C:\Users\Dagoberto\source\repos\src\Shared\obj\Debug\net6.0\src.Shared.csproj.AssemblyReference.cache
+C:\Users\Dagoberto\source\repos\src\Shared\obj\Debug\net6.0\src.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dagoberto\source\repos\src\Shared\obj\Debug\net6.0\src.Shared.AssemblyInfoInputs.cache
+C:\Users\Dagoberto\source\repos\src\Shared\obj\Debug\net6.0\src.Shared.AssemblyInfo.cs
+C:\Users\Dagoberto\source\repos\src\Shared\obj\Debug\net6.0\src.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Dagoberto\source\repos\src\Shared\obj\Debug\net6.0\src.Shared.dll
+C:\Users\Dagoberto\source\repos\src\Shared\obj\Debug\net6.0\refint\src.Shared.dll
+C:\Users\Dagoberto\source\repos\src\Shared\obj\Debug\net6.0\src.Shared.pdb
+C:\Users\Dagoberto\source\repos\src\Shared\obj\Debug\net6.0\ref\src.Shared.dll
